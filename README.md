@@ -1,3 +1,3 @@
 # rtcs
 rabochaya tetrad' po corporativnim systemam
-ЭФБО-16-24
+ЭФБО-16-24 Бабенко Богдан
